@@ -4,7 +4,9 @@
 
 ## Score Cards
 
-### Project 1
+### Project 1 [https://github.com/kingan1/application-tracking-system/tree/main](https://github.com/kingan1/application-tracking-system/tree/main)
+
+Project - __Application-Tracking-System__
 
 | Notes                                                                                                                                                                                      | Self Assessment | Evidence                                                                                                                                                                                                                                                                           |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -126,7 +128,9 @@
 | Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?                                                                                                                                                                                                                                                                                            | Not applicable  |                                                                                                                                                                                                                                                                                    |
 | Do you make timely announcements of the deprecation of components, APIs, etc.?                                                                                                                                                                                                                                                                                                                                      | No              |
 
-### Project 2
+### Project 2 [https://github.com/git-ankit/MovieRecommender](https://github.com/git-ankit/MovieRecommender)
+
+Project - __MovieRecommender__
 
 | Notes                                                                                                                                                                                     | Self Assessment | Evidence                                                                                                                                                                         |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -249,7 +253,9 @@
 | Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?                                                                                                                                                                                                                                                                                  | Not applicable  |                                                                                                                                                                                  |
 | Do you make timely announcements of the deprecation of components, APIs, etc.?                                                                                                                                                                                                                                                                                                                            | No              |                                                                                                                                                                                  |
 
-### Project 3
+### Project 3 [https://github.com/ashakhatri007/WolfJobs](https://github.com/ashakhatri007/WolfJobs)
+
+Project - __WolfJobs__
 
 | Notes                                                                                                                                                                                     | Self Assessment | Evidence                                                                                                                                                                                                       |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -371,7 +377,9 @@
 | Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?                                                                                                                                                                                                                                                                              | Not applicable  |                                                                                                                                                                                                                |
 | Do you make timely announcements of the deprecation of components, APIs, etc.?                                                                                                                                                                                                                                                                                                                        | No              |
 
-### Project 4
+### Project 4 [https://github.com/rliu9/cheapBuy](https://github.com/rliu9/cheapBuy)
+
+Project - __cheapBuy__
 
 | Notes                                                                                                                                                                                     | Self Assessment | Evidence                                                                                                                                                                                                       |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -493,7 +501,9 @@
 | Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?                                                                                                                                                                                                                                                                              | Not applicable  |                                                                                                                                                                                                                |
 | Do you make timely announcements of the deprecation of components, APIs, etc.?                                                                                                                                                                                                                                                                                                                        | No              |
 
-### Project 5
+### Project 5 [https://github.com/usmanwardag/auto_anki/tree/main](https://github.com/usmanwardag/auto_anki/tree/main)
+
+Project - __auto_anki__
 
 | Notes                                                                                                                                                                                      | Self Assessment | Evidence                                                                                                                                                                                                                                                                          |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -617,7 +627,7 @@
 
 ## Group members
 
-    **Madhur Dixit**
-    **Atharva Kale**
-    **Tanvi Raut**
-    **Kohav Yadav**
+  **Madhur Dixit
+    Atharva Kale
+    Tanvi Raut
+    Kohav Yadav**
