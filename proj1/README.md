@@ -1,6 +1,6 @@
 # SE_Project
-
-    SE Project 
+SE Project 
+__Youtube Link__ -
 
 ## Score Cards
 
@@ -627,7 +627,7 @@ Project - __auto_anki__
 
 ## Group members
 
-  **Madhur Dixit
-    Atharva Kale
-    Tanvi Raut
-    Kohav Yadav**
+__Madhur Dixit__
+__Atharva Kale__
+__Tanvi Raut__
+__Kohav Yadav__
