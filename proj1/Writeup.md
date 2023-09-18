@@ -16,7 +16,7 @@ We're taking steps to enhance our project in several ways. First, we're broadeni
 In terms of documentation, we're making it more engaging by incorporating GIFs and images to grab users' attention and keep them interested. Furthermore, we're addressing the absence of future development prospects in the readme file, making it easier for others to contribute and enhance our open-source software.
 To make our project more accessible, we're simplifying technical jargon in the documentation and providing clear, step-by-step installation instructions. These improvements will ensure that our project is more user-friendly, attractive, and open to collaboration.<br>
 
-Conclusion and Learnings from Project:<br>
+Conclusion and Learnings from Project:<br><br>
 Our project evaluation highlighted crucial lessons:<br>
 
 1. Documentation Matters: Incomplete or unclear documentation hinders project evaluation and future work. Comprehensive documentation is essential for present and future team members.
