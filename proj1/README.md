@@ -18,10 +18,10 @@
     
 
 ## Group members
-    *Madhur Dixit
-    *Atharva Kale
-    *Tanvi Raut
-    *Kohav Yadav
+    **Madhur Dixit**
+    **Atharva Kale**
+    **Tanvi Raut**
+    **Kohav Yadav**
 
 
 
