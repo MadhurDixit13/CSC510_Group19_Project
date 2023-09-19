@@ -12,7 +12,7 @@ Similarly, when attempting to set up the Lecture Flash Card Generator, we faced 
 For the Application Tracking System, we encountered problems related to the setup.sh script, and we couldn't locate any troubleshooting guidance within the project's repository.
 Additionally, we discovered that the Streamlit website associated with the E-Commerce Cheapest Deal Finder project was non-functional. This made it even more challenging for us to understand the project's code, and the situation was exacerbated by the inadequate presence of comments in the codebase.<br>
 
-We're taking steps to enhance our project in several ways. First, we're broadening its scope by introducing additional features. Our current repository lacks clarity and detail, so we're making it more comprehensive and user-friendly. This will help prevent the issues we encountered during our own implementation.
+We're taking steps to enhance our project in several ways. Firstly, Our current repository lacks clarity and detail, so we're making it more comprehensive and user-friendly. This will help prevent the issues we encountered during our own implementation.
 In terms of documentation, we're making it more engaging by incorporating GIFs and images to grab users' attention and keep them interested. Furthermore, we're addressing the absence of future development prospects in the readme file, making it easier for others to contribute and enhance our open-source software.
 To make our project more accessible, we're simplifying technical jargon in the documentation and providing clear, step-by-step installation instructions. These improvements will ensure that our project is more user-friendly, attractive, and open to collaboration.<br>
 
